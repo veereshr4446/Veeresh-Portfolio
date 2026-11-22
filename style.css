@@ -396,3 +396,6 @@ html { scroll-behavior: smooth; }
 
 /* added: responsive-media */
 img, video { max-width: 100%; height: auto; }
+
+/* added: font-smoothing */
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
