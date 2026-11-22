@@ -405,3 +405,9 @@ html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 
 /* added: scroll-margin */
 section[id] { scroll-margin-top: 80px; }
+
+/* added: print-styles */
+@media print {
+  nav, button, canvas { display: none !important; }
+  body { background: #fff; color: #000; }
+}
