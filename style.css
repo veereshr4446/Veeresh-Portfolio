@@ -379,3 +379,9 @@ html { scroll-behavior: smooth; }
 
 /* added: selection */
 ::selection { background: #58a6ff; color: #0d1117; }
+
+/* added: scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #0d1117; }
+::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #484f58; }
