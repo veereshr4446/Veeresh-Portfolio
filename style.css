@@ -376,3 +376,6 @@ h1 {
 
 /* added: smooth-scroll */
 html { scroll-behavior: smooth; }
+
+/* added: selection */
+::selection { background: #58a6ff; color: #0d1117; }
