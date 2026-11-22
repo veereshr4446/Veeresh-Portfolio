@@ -97,3 +97,7 @@ git clone https://github.com/veereshr4446/Veeresh-Portfolio.git
 cd Veeresh-Portfolio
 # open index.html in your browser
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
