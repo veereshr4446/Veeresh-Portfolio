@@ -399,3 +399,6 @@ img, video { max-width: 100%; height: auto; }
 
 /* added: font-smoothing */
 body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; }
+
+/* added: text-size-adjust */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
