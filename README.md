@@ -89,3 +89,11 @@ cd Veeresh-Portfolio
 - GitHub: [@veereshr4446](https://github.com/veereshr4446)
 - LinkedIn: [Viresh Ranjanagi](https://linkedin.com/in/-veeresh-ranjanagi)
 - Email: veereshtalikoti95@gmail.com
+
+## Getting Started
+
+```bash
+git clone https://github.com/veereshr4446/Veeresh-Portfolio.git
+cd Veeresh-Portfolio
+# open index.html in your browser
+```
