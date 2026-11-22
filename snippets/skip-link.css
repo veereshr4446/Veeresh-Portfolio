@@ -1,0 +1,2 @@
+.skip { position: absolute; left: -999px; }
+.skip:focus { left: 10px; top: 10px; background: #fff; color: #000; padding: 8px 12px; z-index: 1000; }
