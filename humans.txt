@@ -1,0 +1,6 @@
+/* TEAM */
+Developer: Viresh Ranjanagi
+Site: GitHub - veereshr4446
+
+/* SITE */
+Standards: HTML5, CSS3, JavaScript
