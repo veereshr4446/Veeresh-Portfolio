@@ -1,0 +1,6 @@
+.btn {
+  padding: 10px 20px; border: 0; border-radius: 8px; cursor: pointer;
+  background: var(--accent, #58a6ff); color: #0d1117; font-weight: 600;
+  transition: filter 0.2s ease;
+}
+.btn:hover { filter: brightness(1.1); }
